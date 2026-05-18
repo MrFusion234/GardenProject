@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Картофель",
+    "required_temperature": 8,
+    "watering_frequency": 7,
+    "fertilizing_frequency": 14,
+    "days_to_harvest": 90
+  },
+  {
+    "name": "Морковь",
+    "required_temperature": 5,
+    "watering_frequency": 10,
+    "fertilizing_frequency": 21,
+    "days_to_harvest": 80
+  },
+  {
+    "name": "Огурцы",
+    "required_temperature": 16,
+    "watering_frequency": 3,
+    "fertilizing_frequency": 7,
+    "days_to_harvest": 55
+  },
+  {
+    "name": "Помидоры",
+    "required_temperature": 15,
+    "watering_frequency": 5,
+    "fertilizing_frequency": 10,
+    "days_to_harvest": 70
+  },
+  {
+    "name": "Лук",
+    "required_temperature": 6,
+    "watering_frequency": 8,
+    "fertilizing_frequency": 18,
+    "days_to_harvest": 85
+  },
+  {
+    "name": "Капуста",
+    "required_temperature": 12,
+    "watering_frequency": 5,
+    "fertilizing_frequency": 14,
+    "days_to_harvest": 100
+  },
+  {
+    "name": "Зелень",
+    "required_temperature": 10,
+    "watering_frequency": 4,
+    "fertilizing_frequency": 12,
+    "days_to_harvest": 40
+  },
+  {
+    "name": "Чеснок",
+    "required_temperature": 4,
+    "watering_frequency": 9,
+    "fertilizing_frequency": 20,
+    "days_to_harvest": 110
+  },
+  {
+    "name": "Свекла",
+    "required_temperature": 7,
+    "watering_frequency": 8,
+    "fertilizing_frequency": 16,
+    "days_to_harvest": 75
+  },
+  {
+    "name": "Кабачки",
+    "required_temperature": 14,
+    "watering_frequency": 4,
+    "fertilizing_frequency": 9,
+    "days_to_harvest": 50
+  },
+  {
+    "name": "r2134r21",
+    "required_temperature": 21,
+    "watering_frequency": 14,
+    "fertilizing_frequency": 21,
+    "days_to_harvest": 90
+  },
+  {
+    "name": "wertew",
+    "required_temperature": 4,
+    "watering_frequency": 14,
+    "fertilizing_frequency": 21,
+    "days_to_harvest": 90
+  },
+  {
+    "name": "qer",
+    "required_temperature": 14,
+    "watering_frequency": 14,
+    "fertilizing_frequency": 21,
+    "days_to_harvest": 90
+  },
+  {
+    "name": "айуц3а",
+    "required_temperature": 25,
+    "watering_frequency": 34,
+    "fertilizing_frequency": 64,
+    "days_to_harvest": 265
+  },
+  {
+    "name": "куце",
+    "required_temperature": 32,
+    "watering_frequency": 12,
+    "fertilizing_frequency": 21,
+    "days_to_harvest": 90
+  }
+]
